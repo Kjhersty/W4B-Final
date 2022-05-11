@@ -25,5 +25,59 @@
     background-color: #09203a;
     color: white;
   }
-
+  .oblique {
+    font-style: oblique;
+  }
   
+  .thicker {
+    font-weight: 900;
+    font-size: large;
+    font: bold;
+  }
+  .P1{
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+  .P2{
+    font: bold;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';  
+    font-size: medium;
+  }
+  .P3{
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+  .P4{
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+    .P5{
+      font: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+    }
+    .P6{
+      font: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+    }
+    .P7{
+      font: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+    }
+    .P8{
+      font: bold;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+    }
+    .P9{
+      font: bolder;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: large;
+    }
+
+
