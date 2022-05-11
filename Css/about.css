@@ -39,7 +39,7 @@ nav{
   height: 100px;
 }
 .logo img{
-  width: 100px;
+  width: 129px;
   float: left;
   padding-left: 2%;
   height: 100px;
@@ -62,7 +62,7 @@ nav{
 }
 p{
   font-style: italic;
-  background-color:cyan ;
+  background-color: gray ;
   text-align: center;
   line-height: 1.4em;
   font-size: 25px;
