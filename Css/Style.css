@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-/* Add a black background color to the top navigation */
-.topnav {
-    background-color: rgb(19, 27, 61);
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 20px;
-  }
-=======
 *{
   margin: 0%;
   padding: 0%;
@@ -60,7 +43,6 @@ nav{
 .menu-area li a:hover{
   background: tomato;
   color: #fff;
->>>>>>> 542f3cc295a6fefc05211e1b1cebac5c58a30549
   
 }
 nav:before{
@@ -128,26 +110,9 @@ h2{
   align-items: center;
   border-radius: 0.5rem;
   
-<<<<<<< HEAD
-  /* Add a color to the active/current link */
-  .topnav a.active {
-    background-color: #09203a;
-    color: white;
-  }
-
-  .starlight{
-        width: 1px;
-        height:40px;
-  }
-body{
-  background-image: url(/W4B-Final/img/galaxy.JPG);
-}
-
-<h1></h1>
-=======
 }
 .flip-card-front{
-  background-color: aquamarine;
+  background-color: rgb(32, 32, 32);
   color: #fff;
   z-index: 1;
 }
@@ -160,6 +125,7 @@ body{
   width: 100%;
   height: 100%;
   border-radius: 0.5rem;
+  padding-bottom: 70px;
 }
 .flip-card-back p{
   text-align: center;
@@ -192,6 +158,16 @@ body{
   margin-top: 100px;
   margin-left: 135px;
 }
+.Night-Court{
+  margin-top: 0px;
+  margin-left: 225px;
+  float: left;
+}
+.Dawn-Court{
+  margin-top: 0px;
+  margin-right: 169px;
+  float: right;
+}
 .Footer{
   background-color: rgb(32, 32, 32);
   height: 5vh
@@ -200,6 +176,10 @@ body{
   margin-right: 10px;
   font-size: 1.8em;
   float: right;
+}
+.Video{
+  text-align: center;
+  background-color: rgb(32, 32, 32);
 }
 .fa-twitter{
   margin-right: 10px;
@@ -211,4 +191,3 @@ body{
   font-size: 1.8em;
   float: right;
 }
->>>>>>> 542f3cc295a6fefc05211e1b1cebac5c58a30549
